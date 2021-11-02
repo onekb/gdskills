@@ -1,0 +1,17 @@
+{
+    "name": "onekb/gdskills",
+    "autoload": {
+        "psr-4": {
+            "Onekb\\Gdskills\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "onekb",
+            "email": "1@1kb.ren"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
